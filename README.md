@@ -18,7 +18,7 @@ MiniCad is a library for C#/WPF. It includes basic controls and a custom control
 
 ## Photo
 
-![image](https://github.com/BrianTracy69/MiniCad/MiniCad.jpg)
+![image](https://raw.githubusercontent.com/BrianTracy69/MiniCad/refs/heads/main/MiniCad.PNG)
 
 ## Installation
 
